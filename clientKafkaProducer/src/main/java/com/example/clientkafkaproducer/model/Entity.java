@@ -1,4 +1,4 @@
-package com.example.clientkafkaproduser.model;
+package com.example.clientkafkaproducer.model;
 
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;

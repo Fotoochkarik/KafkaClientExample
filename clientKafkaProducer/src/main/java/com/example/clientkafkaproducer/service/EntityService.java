@@ -1,7 +1,7 @@
-package com.example.clientkafkaproduser.service;
+package com.example.clientkafkaproducer.service;
 
-import com.example.clientkafkaproduser.model.Entity;
-import com.example.clientkafkaproduser.repository.EntityRepository;
+import com.example.clientkafkaproducer.model.Entity;
+import com.example.clientkafkaproducer.repository.EntityRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,7 +1,7 @@
-package com.example.clientkafkaproduser;
+package com.example.clientkafkaproducer;
 
-import com.example.clientkafkaproduser.model.Entity;
-import com.example.clientkafkaproduser.service.EntityService;
+import com.example.clientkafkaproducer.model.Entity;
+import com.example.clientkafkaproducer.service.EntityService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

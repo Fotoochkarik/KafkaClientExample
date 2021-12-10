@@ -1,6 +1,6 @@
-package com.example.clientkafkaproduser.repository;
+package com.example.clientkafkaproducer.repository;
 
-import com.example.clientkafkaproduser.model.Entity;
+import com.example.clientkafkaproducer.model.Entity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
